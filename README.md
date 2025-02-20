@@ -1,3 +1,4 @@
 Задача №1
 https://hub.docker.com/repository/docker/borlandcsn/custom-nginx/general
 Задача №2
+![задача 2](https://github.com/user-attachments/assets/1e048000-234c-4295-8f2f-480cda64e256)
