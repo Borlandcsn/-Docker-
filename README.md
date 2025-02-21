@@ -7,6 +7,7 @@ https://hub.docker.com/repository/docker/borlandcsn/custom-nginx/general
 Задача №3
 
 ![Screenshot_!!!!!!!!!](https://github.com/user-attachments/assets/efbc9f39-8594-46b8-a8d5-939bf4174e32)
+
 Задача 4
 
 ![Screenshot_3](https://github.com/user-attachments/assets/8a8e4e84-0516-4090-bb32-2999b506e2fb)
