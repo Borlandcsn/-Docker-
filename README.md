@@ -8,6 +8,8 @@ https://hub.docker.com/repository/docker/borlandcsn/custom-nginx/general
 
 ![Screenshot_!!!!!!!!!](https://github.com/user-attachments/assets/efbc9f39-8594-46b8-a8d5-939bf4174e32)
 
+Ctrl+C. Это сочетание клавиш отправляет сигнал SIGINT (сигнал прерывания) процессу, который выполняется в текущей сессии.
+
 Задача 4
 
 ![Screenshot_3](https://github.com/user-attachments/assets/8a8e4e84-0516-4090-bb32-2999b506e2fb)
